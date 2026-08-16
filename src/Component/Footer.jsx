@@ -450,6 +450,9 @@ function Footer() {
             className="
               w-10
               h-10
+              fixed
+              bottom-6
+              right-6
               rounded-full
               flex
               items-center
