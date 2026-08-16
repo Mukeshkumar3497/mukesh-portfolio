@@ -73,7 +73,7 @@ function Footer() {
 
               {/* GitHub */}
               <a
-                href="#"
+                href="https://github.com/Mukeshkumar3497"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GitHub"
@@ -96,7 +96,7 @@ function Footer() {
 
               {/* LinkedIn */}
               <a
-                href="#"
+                href="https://www.linkedin.com/in/mukesh-kumar-196899286/"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn"

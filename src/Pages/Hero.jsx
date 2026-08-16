@@ -406,7 +406,7 @@ function Hero() {
               {/* GITHUB */}
 
               <a
-                href="#"
+                href="https://github.com/Mukeshkumar3497"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="
@@ -436,7 +436,7 @@ function Hero() {
               {/* LINKEDIN */}
 
               <a
-                href="#"
+                href="https://www.linkedin.com/in/mukesh-kumar-196899286/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="
