@@ -214,7 +214,7 @@ function Hero() {
               "
             >
 
-              Creating modern, accessible and high-performance
+              Creating modern, Sass Tools, and accessible and high-performance
               web experiences that bring your ideas to life.
               Specialized in React, Laravel and modern web technologies.
 
@@ -829,7 +829,7 @@ function Hero() {
                 "
               >
 
-                50+
+                5+
 
               </div>
 
@@ -890,7 +890,7 @@ function Hero() {
                 "
               >
 
-                2+
+                1
 
               </div>
 

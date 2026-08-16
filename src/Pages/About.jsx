@@ -939,7 +939,7 @@ function About() {
                 text-transparent
               "
             >
-              20+
+              5+
             </h3>
 
             <p className="mt-2 text-gray-600 text-sm">
@@ -1044,7 +1044,7 @@ function About() {
                 text-transparent
               "
             >
-              2+
+              1
             </h3>
 
             <p className="mt-2 text-gray-600 text-sm">
