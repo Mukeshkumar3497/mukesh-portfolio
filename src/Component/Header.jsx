@@ -563,10 +563,9 @@ function Header() {
                   </Link>
                 </li>
 
-
                 <li>
                   <Link
-                    to="/experience"
+                    to="/blog"
                     onClick={() => setMenuOpen(false)}
                     className={`
                       block
@@ -580,28 +579,7 @@ function Header() {
                       }
                     `}
                   >
-                    Experience
-                  </Link>
-                </li>
-
-
-                <li>
-                  <Link
-                    to="/skills"
-                    onClick={() => setMenuOpen(false)}
-                    className={`
-                      block
-                      font-medium
-                      hover:text-blue-600
-
-                      ${
-                        darkMode
-                          ? 'text-gray-300'
-                          : 'text-gray-700'
-                      }
-                    `}
-                  >
-                    Skills
+                    Blog
                   </Link>
                 </li>
 
